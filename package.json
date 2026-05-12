@@ -16,7 +16,7 @@
     "@vanilla-extract/dynamic": "*",
     "@vanilla-extract/next-plugin": "*",
     "nanopop": "^2",
-    "next": "16.2.3",
+    "next": "16.2.6",
     "next-transpile-modules": "^9.0.0",
     "polished": "^4.2.2",
     "rainbow-sprinkles": "^0.12",
